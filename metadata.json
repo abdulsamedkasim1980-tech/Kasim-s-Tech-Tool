@@ -1,0 +1,5 @@
+{
+  "name": "Kasim's Tech Tool – Consistent AI Character Story Creator",
+  "description": "An AI-powered tool to generate consistent character images for stories. Upload character references, write your story prompts, and generate a sequence of images with the same character style using Gemini AI.",
+  "requestFramePermissions": []
+}
